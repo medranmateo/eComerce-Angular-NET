@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Commons\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
